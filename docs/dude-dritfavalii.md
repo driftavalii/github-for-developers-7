@@ -1,4 +1,4 @@
 ### bio file
 
 **name:** dude
-supposed to add something.
+Favorite Color: Blue (in all shades)
